@@ -1,2 +1,2 @@
-# Instructions to resolve FeGorce error code 0x00003
+# Setup Instructions
 Install the file called `setup.sh` and run it with the arguments found in `args.txt`
